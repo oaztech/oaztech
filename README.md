@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working Full-time as a Back-end web developer php-mvc/Laravel
+- 🔭 I’m currently working Full-time as a Back-end engineer
 - 🌱 I have currently a bachelor degree in Systems information developement and Software Engineering.
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I'm looking for feedback on my repos made
